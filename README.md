@@ -1,6 +1,6 @@
 # YOLOv5_Fish
 FishDetectionAndTracking with YOLOv5
-
+My first experience with YOLO, I will try to train with underwater images to detect and track fish. Stay tuned to see my progress :D 
 ## 1. Model
 
 ## 2. About Dataset
